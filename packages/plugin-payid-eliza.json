@@ -1,0 +1,33 @@
+{
+  "name": "plugin-payid-eliza",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "github:metabaronespinosa/plugin-payid-eliza"
+  },
+  "maintainers": [
+    {
+      "name": "metabaronespinosa",
+      "github": "metabaronespinosa"
+    }
+  ],
+  "categories": [],
+  "tags": [
+    "plugin"
+  ],
+  "versions": [
+    {
+      "version": "0.0.2",
+      "gitBranch": "0.0.2",
+      "gitTag": "v0.0.2",
+      "runtimeVersion": "1.0.0-beta.49",
+      "releaseDate": "2025-05-13T22:39:21.926Z",
+      "deprecated": false
+    }
+  ],
+  "latestStable": "0.0.2",
+  "latestVersion": "0.0.2",
+  "type": "plugin",
+  "installable": true,
+  "platform": "universal"
+}
