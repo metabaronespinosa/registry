@@ -1,0 +1,33 @@
+{
+  "name": "@elizaos/plugin-payid",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "github:metabaronespinosa/plugin-payid"
+  },
+  "maintainers": [
+    {
+      "name": "metabaronespinosa",
+      "github": "metabaronespinosa"
+    }
+  ],
+  "categories": [],
+  "tags": [
+    "plugin"
+  ],
+  "versions": [
+    {
+      "version": "0.0.3",
+      "gitBranch": "0.0.3",
+      "gitTag": "v0.0.3",
+      "runtimeVersion": "1.0.0-beta.57",
+      "releaseDate": "2025-05-22T03:55:01.281Z",
+      "deprecated": false
+    }
+  ],
+  "latestStable": "0.0.3",
+  "latestVersion": "0.0.3",
+  "type": "plugin",
+  "installable": true,
+  "platform": "universal"
+}
