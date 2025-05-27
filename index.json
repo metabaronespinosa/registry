@@ -105,12 +105,14 @@
   "__v2": {
     "version": "2.0.0",
     "packages": {
-      "@elizaos/plugin-starter": "packages/plugin-starter.json"
+      "@elizaos/plugin-starter": "packages/plugin-starter.json",
+      "@elizaos/plugin-reveel-payid": "packages/plugin-reveel-payid.json"
     },
     "categories": {},
     "types": {
       "plugin": [
-        "@elizaos/plugin-starter"
+        "@elizaos/plugin-starter",
+        "@elizaos/plugin-reveel-payid"
       ],
       "project": [],
       "module": []
